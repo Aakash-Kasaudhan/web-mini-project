@@ -1,0 +1,8 @@
+.carousel > img{
+    height: 100vh;
+}
+
+.carousel_inner{
+
+    height: 40%;
+}
