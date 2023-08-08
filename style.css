@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 .carousel-item{
     max-height: 50%;
+=======
+.carousel-item img{
+       max-height: 75vh;
+}
+
+ .card{
+       display: inline-block;
+>>>>>>> master
 }
